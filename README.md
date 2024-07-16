@@ -1,8 +1,3 @@
-<!-- contributors -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/pphatdev/pphatdev/main/github-cover.png" alt="pphatdev">
-
-
 <!-- <h1 align="center">Hello there 👋</h1>
 I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/UX designer. -->
 
@@ -34,13 +29,13 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 <!-- contributors -->
 <!-- <p align="center">
-<img src="https://badges.pufler.dev/contributors/pphatdev/pphatdev?size=50&padding=5&perRow=10&bots=true" alt="pphatdev"> -->
+<img src="https://badges.pufler.dev/contributors/temmplate/temmplate?size=50&padding=5&perRow=10&bots=true" alt="temmplate"> -->
 
 
 ## Daily Commit Stats 🌈
 <!-- stats 📶 -->
 <p align="left">
-<img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=pphatdev&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true&hide_title=true" />
+<img align="" width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=temmplate&bg_color=ffffff00&color=298f1d&line=1f8f00&point=248f12&area=true&hide_border=true&hide_title=true" />
 
 
 <!-- border ⛔ -->
@@ -50,7 +45,7 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 ## Github Stats 🌈
 <!-- Badge ⭕ -->
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=pphatdev&column=5" alt="pphatdev" width="512">
+<img src="https://github-profile-trophy.vercel.app/?username=temmplate&column=5" alt="temmplate" width="512">
 
 
 <!-- border ⛔ -->
@@ -59,4 +54,4 @@ I'm PPhat Dev, I am the senior front-end developer of @turbotechlabs, and an UI/
 
 # Language usage 🪲👽
 <!-- stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pphatdev&langs_count=15&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temmplate&langs_count=15&bg_color=9ca3af00&hide_border=true&hide_title=true" width="300">
